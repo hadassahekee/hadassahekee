@@ -1,4 +1,4 @@
-### Hi there 👋,my name is Esther but you can call me Hadassah or Estewise :)
+### Hi there 👋, my name is Esther but you can call me Hadassah :)
 
 <!--
 **hadassahekee/hadassahekee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
 
-- 🔭 I’m currently studying Computer Science as an undergraduate student.
+- 🔭 I’m currently studying Information Engineering at the TU Munich.
+- 🌱 I’m currently building an app based on a childhood game using C++ and hoping to publish on the app store afterwards.
+- ⚡ Fun fact: I love cooking and reading novels. Norah Roberts, Kristin Ashley, Julie Garwood and Lisa Kleypas are my favourite authors.
 
 ## Languages and Tools:
-### Python
 ### C++
-### Java
+### Python
+### Java and TCL
 
