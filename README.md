@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying Information Engineering at the TU Munich.
 - 🌱 I’m currently building an app based on a childhood game using C++ and hoping to publish on the app store afterwards.
 - ⚡ Fun fact: I love cooking and reading novels. Norah Roberts, Kristin Ashley, Julie Garwood and Lisa Kleypas are my favourite authors.
-- 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/esther-eke-450563112/) or [E-mail](eke.esthere@gmail.com).
+- 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/esther-eke-450563112/) or [Esther Eke](mailto:eke.esthere@gmail.com?subject=[GitHub]%20Source%20Esther%20Eke).
 
 ## Languages and Tools:
 ### C++
