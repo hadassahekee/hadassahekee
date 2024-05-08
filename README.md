@@ -25,5 +25,7 @@ Here are some ideas to get you started:
 ## Languages and Tools:
 ### C++
 ### Python
-### Java and TCL
+### Java
+### C
+### NASM
 
